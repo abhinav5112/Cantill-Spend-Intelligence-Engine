@@ -1,0 +1,9 @@
+{
+  "company": "B",
+  "invoice_file": "company_B/invoice_lines.csv",
+  "taxonomy_file": "company_B/taxonomy_B.csv",
+  "fx_file": "company_B/fx_rates_usd.csv",
+  "labels_file": "company_B/seed_labels.csv",
+  "model_file": "models/company_B.joblib",
+  "rules_file": "models/company_B_rules.json"
+}

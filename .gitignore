@@ -1,0 +1,16 @@
+# Confidential task data — never commit
+Cantill_DataML_Task_Kit/
+blind_test_kit/
+*.zip
+__pycache__/
+.venv/
+venv/
+*.pyc
+# Ignore intermediate outputs
+outputs/*
+
+# Include only final submission files
+!outputs/final_submission/
+outputs/final_submission/*
+!outputs/final_submission/abhinav__A.csv
+!outputs/final_submission/abhinav__B.csv

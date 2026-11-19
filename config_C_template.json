@@ -1,0 +1,18 @@
+{
+  "company": "C",
+  "invoice_file": "company_C/invoice_lines.csv",
+  "taxonomy_file": "company_C/taxonomy_C.csv",
+  "output_name": "abhinav__C.csv",
+  "id_column": "line_id",
+  "amount_column": "line_amount",
+  "date_column": "posting_date",
+  "currency_column": "currency",
+  "currency_rate_column": "currency_rate",
+  "fx_file": "company_C/fx_rates_usd.csv",
+  "supplier_id_column": "vendor_id",
+  "supplier_column": "supplier_name",
+  "item_code_column": "material_number",
+  "description_columns": ["line_description", "material_number", "gl_account_description", "gl_account"],
+  "account_column": "gl_account_description",
+  "document_type_column": "document_type"
+}

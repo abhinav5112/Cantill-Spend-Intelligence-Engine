@@ -1,0 +1,20 @@
+{
+  "excluded_accounts": [
+    "GL40039",
+    "GL40102",
+    "GL40191",
+    "GL40242",
+    "GL40261"
+  ],
+  "excluded_descriptions": [
+    "I/C Payable",
+    "IC Payables",
+    "IC05",
+    "IC06",
+    "IC22",
+    "IC23",
+    "IC37",
+    "IC52",
+    "IC67"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "company": "A",
+  "erp_file": "company_A/erp_goods_receipts.csv",
+  "tool_file": "company_A/invoice_tool_export.csv",
+  "taxonomy_file": "company_A/taxonomy_A.csv",
+  "labels_file": "company_A/labels_A.csv",
+  "model_file": "models/company_A.joblib",
+  "output_name": "abhinav__A2.csv"
+}
